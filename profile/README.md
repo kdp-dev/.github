@@ -3,7 +3,7 @@
 Software development by [KYDronePilot](https://github.com/KYDronePilot).
 
 <p align="center">
-  <img src="img/KDP.png" width="112" height="112" /><br>
+  <img src="https://github.com/kdp-dev/.github/raw/master/img/KDP.png" width="112" height="112" /><br>
   <span>Quality software built with quality tools.</span>
 </p>
 
@@ -22,6 +22,20 @@ Software development by [KYDronePilot](https://github.com/KYDronePilot).
 <img alt="Framework: SwiftUI" src="https://img.shields.io/badge/framework-SwiftUI-orange">
 <img alt="SpaceEye downloads" src="https://img.shields.io/badge/downloads-20k+-green">
 <img alt="SpaceEye repo stars" src="https://img.shields.io/github/stars/KYDronePilot/SpaceEye?style=social">
+</li>
+<li>
+<a href="https://github.com/kdp-dev/tpcli">tpcli</a>: Quickly manage your Microsoft Teams presence from the command line.<br>
+<img alt="Language: Rust" src="https://img.shields.io/badge/language-Rust-orange">
+<img alt="Platform: CLI" src="https://img.shields.io/badge/platform-CLI-black">
+<img alt="Download count" src="https://img.shields.io/github/downloads/kdp-dev/tpcli/v1.0.0/total">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/kdp-dev/tpcli?style=social">
+</li>
+<li>
+<a href="https://github.com/kdp-dev/google-meet-monitor">google-meet-monitor</a>: Get notifications of who's in a Google Meet call.<br>
+<img alt="Language: JavaScript" src="https://img.shields.io/badge/language-JavaScript-yellow">
+<img alt="Platform: Chrome extension" src="https://img.shields.io/badge/platform-Chrome extension-blue">
+<img alt="Chrome Web Store user count" src="https://img.shields.io/chrome-web-store/users/khfhloinefcdhklhjeabkimjebpbgbkd">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/kdp-dev/google-meet-monitor?style=social">
 </li>
 </ul>
 
