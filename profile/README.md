@@ -20,7 +20,7 @@ Software development by [KYDronePilot](https://github.com/KYDronePilot).
 <a href="https://github.com/KYDronePilot/SpaceEye">SpaceEye and SpaceEye+</a>: Live satellite imagery for your desktop background.<br>
 <img alt="Framework: Electron.js" src="https://img.shields.io/badge/framework-Electron.js-afe8f7">
 <img alt="Framework: SwiftUI" src="https://img.shields.io/badge/framework-SwiftUI-orange">
-<img alt="SpaceEye downloads" src="https://img.shields.io/badge/downloads-20k+-green">
+<img alt="SpaceEye downloads" src="https://img.shields.io/badge/downloads-20k+-brightgreen">
 <img alt="SpaceEye repo stars" src="https://img.shields.io/github/stars/KYDronePilot/SpaceEye?style=social">
 </li>
 <li>
