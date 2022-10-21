@@ -24,6 +24,13 @@ Software development by [KYDronePilot](https://github.com/KYDronePilot).
 <img alt="SpaceEye repo stars" src="https://img.shields.io/github/stars/KYDronePilot/SpaceEye?style=social">
 </li>
 <li>
+<a href="https://github.com/KYDronePilot/material-deep-ocean-theme">material-deep-ocean-theme</a>: VSCode theme based on the <a href="https://www.material-theme.com/">Material Theme Plugin</a>'s Deep Ocean theme for JetBrains IDEs.<br>
+<img alt="language: TypeScript" src="https://img.shields.io/badge/language-TypeScript-blue">
+<img alt="platform: VS Code" src="https://img.shields.io/badge/platform-VS Code-blue">
+<img alt="Visual Studio Marketplace Downloads" src="https://img.shields.io/visual-studio-marketplace/d/KYDronePilot.material-deep-ocean-theme">
+<img alt="Repo stars" src="https://img.shields.io/github/stars/KYDronePilot/material-deep-ocean-theme?style=social">
+</li>
+<li>
 <a href="https://github.com/kdp-dev/tpcli">tpcli</a>: Quickly manage your Microsoft Teams presence from the command line.<br>
 <img alt="Language: Rust" src="https://img.shields.io/badge/language-Rust-orange">
 <img alt="Platform: CLI" src="https://img.shields.io/badge/platform-CLI-black">
