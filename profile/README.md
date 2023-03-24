@@ -56,6 +56,4 @@ Software development by [KYDronePilot](https://github.com/KYDronePilot).
   | <a href="https://www.instagram.com/kdp_software/">Instagram</a>
 </p>
 
-## Copyright
-
 Copyright (c) 2023 KDP Software Development LLC. All Rights Reserved.
